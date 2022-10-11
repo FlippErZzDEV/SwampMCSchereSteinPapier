@@ -1,0 +1,7 @@
+name: SchereSteinPapier
+version: '${project.version}'
+main: de.swampmc.scheresteinpapier
+api-version: 1.19
+authors: [ FlippErZzDEV ]
+description: RPS minigame for swampmc Network
+website: swampmc.de
